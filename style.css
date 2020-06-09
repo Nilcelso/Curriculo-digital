@@ -1,0 +1,21 @@
+body{
+    margin-left: 500px;
+  }
+  h1{
+    font-size: 30px;
+  }
+  img{
+    width: 150px;
+    height: 150px;
+  }
+  .informacoes{
+    display: flex;
+    gap: 20px;
+  }
+  #foto{
+    margin-right: 40px;
+  }
+  h2{
+    font-size: 18px;
+    text-decoration: underline;
+  }
